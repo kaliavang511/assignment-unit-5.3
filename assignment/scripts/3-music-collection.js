@@ -80,6 +80,10 @@ function findByArtist(collection,artist){
     if (collection[i].artist === artist){
       match.push(collection[i]);
       }
+
+      else{
+        []
+      }
   
 
     }
